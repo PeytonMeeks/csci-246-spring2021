@@ -52,7 +52,7 @@ Office hours: Please email or call in advance if you plan to join.  This will
 eliminate waiting (both on your end and on our end).
 
 * Prof. Fasy (x4804): MW, after class, and by appointment.
-* TA: TODO 
+* TA: Monday 11am-12pm by appointment. Please schedule an appointment using [MSU Appointment Scheduler](https://www.montana.edu/scheduler/login/student/?fac=11433).
 
 ## What is in this repository?
 
@@ -94,8 +94,8 @@ Your grade for this class will be determined by:
 
 - 30% WebAssign and Class Participation 
 - 30% Homework
-- 15% Midterm
-- 15% Final 
+- 15% Midterm (12 March 2021)
+- 15% Final (30 April 2021) 
 - 12% Miscellaneous Opportunities
 
 ## Class Policies
@@ -283,10 +283,28 @@ hear or smell you.
 - Reading: Chapter 3 
 - Miro Links: [M](https://miro.com/app/board/o9J_lXAMeqs=/),
   [Mb](https://miro.com/app/board/o9J_lXAMe_E=/), [W](https://miro.com/app/board/o9J_lWjUKUY=/),
-  [Wb](https://miro.com/app/board/o9J_lWjUKV8=/), F, Fb 
+  [Wb](https://miro.com/app/board/o9J_lWjUKV8=/), [F](https://miro.com/app/board/o9J_lW0dcX4=/),
+  [Fb](https://miro.com/app/board/o9J_lW0dcQs=/) 
 
+### Week 4 (1 February 2021)
+- Topics: Basic Arguments
+- Reading: Chapter 3
+- Miro Links: [M](https://miro.com/app/board/o9J_lWHaFy4=/),
+  [Mb](https://miro.com/app/board/o9J_lWHaFE8=/),
+  [W](https://miro.com/app/board/o9J_lVg2hgU=/),
+  [Wb](https://miro.com/app/board/o9J_lVg2hsU=/),
+  [F](https://miro.com/app/board/o9J_lV4QR0I=/),
+  [Fb](https://miro.com/app/board/o9J_lV4QR1k=/)
 
-
+### Week 5 (8 February 2021)
+- Topics: Direct Proof and Counter Example
+- Reading: Sections 4.1-6
+- Miro Links: [M](https://miro.com/app/board/o9J_lVMrS4M=/),
+    [Mb](https://miro.com/app/board/o9J_lVMrSHk=/),
+    [W](https://miro.com/app/board/o9J_lUqwRXU=/),
+    [Wb](https://miro.com/app/board/o9J_lUqwRX0=/),
+    [F](https://miro.com/app/board/o9J_lU_ZDi0=/),
+    [Fb](https://miro.com/app/board/o9J_lU_ZDjg=/)
 
 --- 
 
