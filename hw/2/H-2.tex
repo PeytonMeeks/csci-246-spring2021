@@ -1,10 +1,12 @@
 \documentclass{article}
 \usepackage{../fasy-hw}
+\usepackage{ wasysym }
+\usepackage{graphicx}
 
 %% UPDATE these variables:
 \renewcommand{\hwnum}{2}
 \title{Discrete Structures, Homework 1}
-\author{\todo{Your Name Here} (\todo{your discord handle here})}
+\author{Peyton Meeks (Peyton Meeks)}
 \collab{n/a}
 \date{due: 5 February 2021}
 
@@ -26,7 +28,7 @@ General homework expectations:
 
 % ============================================
 % ============================================
-\collab{n/a} \nextprob{Everyday Mathematical Arguments}
+\collab{Luke Cormier} \nextprob{Everyday Mathematical Arguments}
 % ============================================
 % ============================================
 Your sister and you decided to partner on a car washing endeavor, where you
@@ -49,25 +51,24 @@ are using.
 
 \paragraph{Answer}
 
-\todo{explain what is wrong with her argument.  What common error did she make?}
+She used a converse by saying "If we washed nine cars, I have earned $\$45$. I have earned $\$10$ so you have not payed me. By doing this all she has said was there is a chance that they did not wash nine cars.
 
-\todo{make your argument in English}.
+If we washed five cars then we made $\$50$. If we made $\$50$ and I made a $\$5$ tip then we made $\$55$. If we made $\$55$ then we should each have $\$27.50$.We washed five cars and I was tipped $\$5$
 Therefore, I earned $\$45$ and you earned $\$10$.
 
 Consider the following statements:
 \begin{enumerate}
-    \item p = ``\todo{statement here}''
-    \item q = ``\todo{statement here}''
-    \item r = ``\todo{statement here}''
-    \item \todo{add more lines if you need them}
+    \item p = ``We earned $\$10$ per carwash''
+    \item q = ``We washed 5 cars''
+    \item r = ``I was tipped $\$5$"
+	\item s = ``We made $\$55$"
 \end{enumerate}
-\todo{now, make your argument using the variables for the statements.  Exmplain
-what rules/arguments you are using with each statement.}
+If p then qand r therefore s.
 
 
 % ============================================
 % ============================================
-\collab{\todo{}}
+\collab{n/a}
 \nextprob{Existential Statements}
 % ============================================
 % ============================================
@@ -79,21 +80,22 @@ Are the following statements true or not true?    Prove or disprove.
     \item All even integers are equal to an odd integer plus one.
 
         \paragraph{Answer}
-        \todo{be sure to write this in if/then format first.  Then, prove or
-        disprove.}
+        If n is an even interger, then n+1 is a odd integer.
+	   0 is an even integer, then 1 is an odd integer.
+	   Therefor all even numbers are equal to an odd interger plus one.
+	   Modus Ponens
 
     \item All horses are the same color.
 
         \paragraph{Answer}
-        \todo{be sure to write this in if/then format first.  Then, prove or
-        disprove.}
+        If one horse is brown, then all horses are brown. This horse is brown, the other horse is black. Therefore not all horses are the same color. Modus Tonens
 
 \end{enumerate}
 
 
 % ============================================
 % ============================================
-\collab{\todo{}}
+\collab{n/a}
 \nextprob{Division into Cases}
 % ============================================
 % ============================================
@@ -119,7 +121,8 @@ of hearts, 3 of clubs, and king of hearts.
         classes as possible).
 
     \paragraph{Answer}
-    \todo{your answer here.}
+    Case 1: Another 10, Match Bet
+	Case 2: Any other card, Fold
 
     \item Suppose that the Turn card is the jack of clubs.
         What are the cases that could occur for the River card, and what is the
@@ -127,14 +130,15 @@ of hearts, 3 of clubs, and king of hearts.
         describe this in as few cases as possible).
 
     \paragraph{Answer}
-    \todo{your answer here.}
+    Case 1: Another 10 or Jack, Match Bet
+	Case 2: Any other card, Fold
 
 \end{enumerate}
 
 
 % ============================================
 % ============================================
-\collab{\todo{}}
+\collab{n/a}
 \nextprob{Bipartite Graphs}
 % ============================================
 % ============================================
@@ -142,12 +146,40 @@ of hearts, 3 of clubs, and king of hearts.
 Exercise Set 4.9, Question 23.
 
 \paragraph{Answer}
-\todo{your answer here.}
+\begin{itemize}
 
+	\item A.
+		\begin{figure}[h]
+		\centering
+			\includegraphics[width=0.25\textwidth]{H_2-4_a}
+		\end{figure}
+
+	\item B.
+		\begin{figure}[h]
+		\centering
+			\includegraphics[width=0.25\textwidth]{H_2-4_b}
+		\end{figure}	
+
+	\item C.
+		\begin{figure}[h]
+		\centering
+			\includegraphics[width=0.25\textwidth]{H_2-4_c}
+		\end{figure}
+
+	\item D.
+		All vertices in group of size m have degree n, all vertices of group size n have degree m.
+
+	\item E.
+		m+n
+	\item F.
+		m*n
+
+
+\end{itemize}
 
 % ============================================
 % ============================================
-\collab{\todo{}}
+\collab{n/a}
 \nextprob{Four Color Theorem}
 % ============================================
 % ============================================
@@ -160,32 +192,31 @@ Read Chapter 1 of \emph{Four Colors Suffice} and answer the following questions:
         a point?
 
         \paragraph{Answer}
-        \todo{your answer here.}
+        Since they only touch at a single point they can be colored the same.
 
     \item Again, looking at the map of the continental US on Page 5, explain why
         Michigan does not satisfy the conditions for the four color theorem.
 
         \paragraph{Answer}
-        \todo{your answer here.}
+        Michigan is only touching three other states but they are not neighboring.
 
     \item Explain why we an omit the states of Hawaii and Alaska in order to
         construct a four-coloring of the states in the USA.
 
         \paragraph{Answer}
-        \todo{your answer here.}
+        Since they are not conjoined to the continental US in anyway they must be omitted.
 
     \item Is the following statement TRUE or FALSE?  Explain. Four colors are
         necessary to color all maps.
 
         \paragraph{Answer}
-        \todo{your answer here.}
+        False, if there are not many area's to be covered then less then four colors will do.
 
     \item Explain one application of the four color theorem that does not
         involve coloring geographic maps.
 
         \paragraph{Answer}
-        \todo{your answer here.}
-
+        A jigsaw puzzle
     \item (Extra Credit). Provide a four-coloring of the McGregor April Fool's
         Hoax on Page 11.
 
@@ -196,7 +227,7 @@ Read Chapter 1 of \emph{Four Colors Suffice} and answer the following questions:
 
 % ============================================
 % ============================================
-\collab{\todo{}}
+\collab{n/a}
 \nextprob{Fred Brooks}
 % ============================================
 % ============================================
@@ -211,13 +242,17 @@ use any sources to write this biography'' as the last sentence of the
 biography.
 
 \paragraph{Answer}
+	\paragraph{
+Fred Brooks was one of the nations foremost computer scientists, even before computer science was called computer science. He used his time at The University of Harvard to study automatic data processing. From there he joined IBM working on some of the most impressive computers of the time. One of which was used at the NSA. Later he returned to his home state of North Carolina to found UNC's computer science department. He spent most of his years there continuing reaserch on various projects which have influced computer science in many ways. After leaving IBM, Brooks wrote his infamous book \emph{The Mythical Man Month}~\cite{brooks-manmonth}. This book talked aobut the sucess and struggles Brooks experienced during his software engineering days at IBM.}
 
-\todo{your answer goes between these lines}
 
 %% ... the bibliography
 \newpage
 \bibliographystyle{acm}
 \bibliography{biblio}
+\begin{itemize}
+	\item \url{https://en.wikipedia.org/wiki/Fred_Brooks}
+\end{itemize}
 
 \end{document}
 
