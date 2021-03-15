@@ -4,7 +4,7 @@
 %% UPDATE these variables:
 \renewcommand{\hwnum}{4}
 \title{Discrete Structures, Homework \hwnum}
-\author{\todo{Your Name Here} (\todo{your discord handle here})}
+\author{Peyton Meeks}
 \collab{n/a}
 \date{due: 5 March 2021}
 
@@ -45,7 +45,7 @@ examples.
 
 % ============================================
 % ============================================
-\collab{\todo{}} \nextprob{Max of a Subset}
+\collab{n/a} \nextprob{Max of a Subset}
 % ============================================
 % ============================================
 
@@ -55,7 +55,7 @@ holds: $\max(A) \leq \max(B)$.
 
 \paragraph{Answer}
 
-\todo{your answer here}
+Suppose there exists a subset $C \subseteq B$ for which $\max(C) > \max(B)$. If $B$ is truly a finite set then by definition of a finite set, $\max(B) \in B$. Since $C \subseteq B$, $\max(C)$ must exist within $B$. Therefore $\max(C)$ cannot be $> \max(B)$ and by proof by contradiction, for any subset $A \subseteq B$, $\max(A)$ must be $\leq \max(B)$.
 
 % ============================================
 % ============================================
@@ -66,6 +66,7 @@ holds: $\max(A) \leq \max(B)$.
 The Fibonacci numbers are defined as follows:
 $$
     F_i = \begin{cases}
+		   0 & i=0\\
             1 & i \in \{1,2\} \\
             F_{n-1}+F_{n-2} & \text{otherwise}
           \end{cases}
@@ -75,7 +76,7 @@ Prove $\sum_{i=0}^n F_i = F_{n+2}-1$.
 
 \paragraph{Answer}
 
-\todo{your answer here}
+Let $n$ be an integer $\geq 1$ and assume that $\sum_{i=0}^n F_i = F_{n+2}-1$ is true. By the definiton of Fibonnaci numbers: $F_n =F_{n-1}+F_{n-2}$ for all integers $n>2$. Consider $F_{n+2}$, by the recursive formula $F{n+2}=F{n+1}+F_n$ and $F_{n+1} =F_n+F_{n-1}$. By using algerbra $F_{n+2}=F_n+F_{n-1}+F_n$. By inductive assumption, $\sum_{i=0}^n F_i = F_n+F_{n-1}+F_n-1$. Let $n=1$, such that $\sum_{i=0}^1 F_i = F_1+F_{1-1}+F_1-1$.Calulating the left side of the equation,  $\sum_{i=0}^n F_i =0+1=1$. Calculating the right side of the same equation,  $F_1+F_{1-1}+F_1-1= 1+0+1-1=1$. Both sides of the equation equal the same thus  $\sum_{i=0}^n F_i = F_{n+2}-1$ is true.
 
 % ============================================
 % ============================================
@@ -104,11 +105,11 @@ tree, then the resulting graph has two connected components.
 
         \paragraph{Answer}
 
-        \todo{your answer here}
+       Suppose there exists a tree in which removing an edge, the resulting graph does not have two connected points. By definition of a tree graph, we know that for every vertex in a tree, there can only be one edge conneting each vertex. Then if we were to remove one of those edges there would be one disjoint vertex from the tree. By definition of a graph when there exists two or more seperate entities then they are considered connected componets. Therefore by removing only one edge from a tree the result would be a graph of two seperate entities, or two connected components.
 
 % ============================================
 % ============================================
-\collab{\todo{}}
+\collab{n/a}
 \nextprob{Leonhard Euler}
 % ============================================
 % ============================================
@@ -124,7 +125,7 @@ biography.
 
 \paragraph{Answer}
 
-\todo{your answer here}
+Leonhard Euler was a engineer and mathematician in Switerland in the 1700's. He is known for many important discoveries in mathmatics which influenced the way that we understand math today. He devoted his life to the therory of mathmatics, with his total works adding up to 92 volumes. He is one of the most important people in the history of computer science due to these developments. Any algorithm used today more than likely uses one or more of Euler's therories. Some of his most noteable acomplishments are the development of the relation of a circle's diameter to its radius also known as $pi$, the use of $f(x)$ as the description of a function, and the use of $sigma ``\sum"$ to denote a summation.\footnote{“Leonhard Euler.” Wikipedia, Wikimedia Foundation, 6 Mar. 2021, \url{en.wikipedia.org/wiki/Leonhard_Euler}.} 
 
 % %% ... the bibliography
 % \newpage
