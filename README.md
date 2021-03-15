@@ -306,6 +306,53 @@ hear or smell you.
     [F](https://miro.com/app/board/o9J_lU_ZDi0=/),
     [Fb](https://miro.com/app/board/o9J_lU_ZDjg=/)
 
+<<<<<<< HEAD
+=======
+### Week 6 (16 February 2021)
+- Topics: proof by contradiction, gcd algorithm
+- Reading: Chapter 4
+- Miro Links: [W](https://miro.com/app/board/o9J_lTtx36M=/),
+    [Wb](https://miro.com/app/board/o9J_lTtx3OE=/),
+    [F](https://miro.com/app/board/o9J_lTLipvY=/),
+    [Fb](https://miro.com/app/board/o9J_lTLipvk=/)
+
+### Week 7 (22 February 2021)
+- Topics: Induction
+- Reading: Chapter 5
+- Miro Links: [M](https://miro.com/app/board/o9J_lTY9Gr0=/),
+    [Mb](https://miro.com/app/board/o9J_lTY9G1E=/)
+    [W](https://miro.com/app/board/o9J_lS19VVA=/),
+    [Wb](https://miro.com/app/board/o9J_lS19VWE=/),
+    [F](https://miro.com/app/board/o9J_lSI1AyI=/),
+    [Fb](https://miro.com/app/board/o9J_lSI1A9I=/)
+
+### Week 7 (1 March 2021)
+- Topics: Induction and Recursion, loop invariants
+- Reading: Chapter 5
+- Miro Links: [M](https://miro.com/app/board/o9J_lRncUt8=/),
+    [Mb](https://miro.com/app/board/o9J_lRncUtk=/),
+    [W](https://miro.com/app/board/o9J_lRCYU9s=/),
+    [Wb](https://miro.com/app/board/o9J_lRCYU-U=/),
+    [F](https://miro.com/app/board/o9J_lReZ9tQ=/),
+    [Fb](https://miro.com/app/board/o9J_lReZ9to=/)
+
+### Week 8 (8 March 2021)
+- Topics: More induction, and boolean algebras 
+- Reading: Chapters 5 & 6
+- Miro Links: [M](https://miro.com/app/board/o9J_lQw_Vek=/),
+    [Mb](https://miro.com/app/board/o9J_lQw_Vbg=/),
+    [W](https://miro.com/app/board/o9J_lQSs0x0=/),
+    [Wb](https://miro.com/app/board/o9J_lQSs0H0=/),
+    [F](https://miro.com/app/board/o9J_lPucMq4=/),
+    [Fb](https://miro.com/app/board/o9J_lPucM0Q=/)
+
+### Week 9 (15 March 2021)
+- Topics: Functions
+- Reading: Chapter 7
+- Miro Links: [M](https://miro.com/app/board/o9J_lPAKI28=/),
+    [Mb](https://miro.com/app/board/o9J_lPAKI2g=/)
+
+>>>>>>> 990a9a36b52d7a47b1d2f75a8549feb8523f77ad
 --- 
 
 This syllabus was created, using wording from previous courses that I have
