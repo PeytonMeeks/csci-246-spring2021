@@ -326,7 +326,7 @@ hear or smell you.
     [F](https://miro.com/app/board/o9J_lSI1AyI=/),
     [Fb](https://miro.com/app/board/o9J_lSI1A9I=/)
 
-### Week 7 (1 March 2021)
+### Week 8 (1 March 2021)
 - Topics: Induction and Recursion, loop invariants
 - Reading: Chapter 5
 - Miro Links: [M](https://miro.com/app/board/o9J_lRncUt8=/),
@@ -336,7 +336,7 @@ hear or smell you.
     [F](https://miro.com/app/board/o9J_lReZ9tQ=/),
     [Fb](https://miro.com/app/board/o9J_lReZ9to=/)
 
-### Week 8 (8 March 2021)
+### Week 9 (8 March 2021)
 - Topics: More induction, and boolean algebras 
 - Reading: Chapters 5 & 6
 - Miro Links: [M](https://miro.com/app/board/o9J_lQw_Vek=/),
@@ -346,15 +346,25 @@ hear or smell you.
     [F](https://miro.com/app/board/o9J_lPucMq4=/),
     [Fb](https://miro.com/app/board/o9J_lPucM0Q=/)
 
-### Week 9 (15 March 2021)
+### Week 10 (15 March 2021)
 - Topics: Functions
 - Reading: Chapter 7
 - Miro Links: [M](https://miro.com/app/board/o9J_lPAKI28=/),
-    [Mb](https://miro.com/app/board/o9J_lPAKI2g=/)
+    [Mb](https://miro.com/app/board/o9J_lPAKI2g=/),
+    [W](https://miro.com/app/board/o9J_lOm8zv0=/),
+    [Wb](https://miro.com/app/board/o9J_lOm8zos=/),
+    [F](https://miro.com/app/board/o9J_lOG_9Yw=/),
+    [Fb](https://miro.com/app/board/o9J_lOG_9bY=/)
+
+### Week 11 (22 March 2021)
+- Topics: Relations
+- Reading: Chapter 8
+- Miro Links: [M](https://miro.com/app/board/o9J_lOYSHWw=/),
+    [Mb](https://miro.com/app/board/o9J_lOYSHXw=/)
 
 >>>>>>> 990a9a36b52d7a47b1d2f75a8549feb8523f77ad
 --- 
-
+)
 This syllabus was created, using wording from previous courses that I have
 taught, as well as David Millman's Spring 2018 Graphics course.  Thanks, Dr.
 Millman!
