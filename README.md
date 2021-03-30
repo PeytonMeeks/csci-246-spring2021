@@ -1,6 +1,6 @@
 # CSCI 246: Discrete Structures, Spring 2021 #
 
-This repository is for class materials for Discrete Structures, Fall 2021, taught by Prof. Fasy.
+This repository is for class materials for Discrete Structures, Spring 2021, taught by Prof. Fasy.
 
 Course Catalog Description: This course covers logic, discrete probability,
 recurrence relations, Boolean algebra, sets, relations, counting, functions,
@@ -360,7 +360,16 @@ hear or smell you.
 - Topics: Relations
 - Reading: Chapter 8
 - Miro Links: [M](https://miro.com/app/board/o9J_lOYSHWw=/),
-    [Mb](https://miro.com/app/board/o9J_lOYSHXw=/)
+    [Mb](https://miro.com/app/board/o9J_lOYSHXw=/),
+    [W](https://miro.com/app/board/o9J_lN5CHpQ=/),
+    [Wb](https://miro.com/app/board/o9J_lN5CHq8=/),
+    [F](https://miro.com/app/board/o9J_lNbk66A=/),
+    [Fb](https://miro.com/app/board/o9J_lNbk67M=/)
+
+### Week 12
+
+- Miro Links: [M](https://miro.com/app/board/o9J_lMtHemg=/),
+    [Mb](https://miro.com/app/board/o9J_lMtHen8=/)
 
 >>>>>>> 990a9a36b52d7a47b1d2f75a8549feb8523f77ad
 --- 
