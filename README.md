@@ -368,8 +368,19 @@ hear or smell you.
 
 ### Week 12
 
+- Topics: Counting andProbability 
+- Reading: Chapter 9
 - Miro Links: [M](https://miro.com/app/board/o9J_lMtHemg=/),
-    [Mb](https://miro.com/app/board/o9J_lMtHen8=/)
+    [Mb](https://miro.com/app/board/o9J_lMtHen8=/),
+    [W](https://miro.com/app/board/o9J_lMGNUN8=/),
+    [Wb](https://miro.com/app/board/o9J_lMGNUOY=/)
+
+### Week 13
+
+- Topics: Probability and Graphs
+- Reading: Chapter 9 and 10
+- Miro Links: [M](https://miro.com/app/board/o9J_lLuQ110=/),
+  [Mb](https://miro.com/app/board/o9J_lLuQ1qA=/)
 
 >>>>>>> 990a9a36b52d7a47b1d2f75a8549feb8523f77ad
 --- 
