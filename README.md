@@ -11,7 +11,7 @@ From the Instructor: This course is NOT a programming class, and is not
 structured like other 100- and 200-level courses.  In this course, we will
 do many proofs and even have some writing exercises. 
 
-## Land Acknowledgemen
+## Land Acknowledgement
 
 Living in Montana, we are on the ancestral lands of American Indians, including
 the 12 tribal nations that call Montana home today: A’aninin (Gros Ventre),
@@ -380,11 +380,24 @@ hear or smell you.
 - Topics: Probability and Graphs
 - Reading: Chapter 9 and 10
 - Miro Links: [M](https://miro.com/app/board/o9J_lLuQ110=/),
-  [Mb](https://miro.com/app/board/o9J_lLuQ1qA=/)
+  [Mb](https://miro.com/app/board/o9J_lLuQ1qA=/),
+  [W](https://miro.com/app/board/o9J_lLKju6Y=/),
+  [Wb](https://miro.com/app/board/o9J_lLKju5A=/),
+  [F](https://miro.com/app/board/o9J_lKlKZn0=/),
+  [Fb](https://miro.com/app/board/o9J_lKlKZgQ=/)
+
+### Week 14
+
+- Topics: Asymptotics
+- Reading: Chapter 11
+- Miro Links: [M](https://miro.com/app/board/o9J_lK7APus=/),
+    [Mb](https://miro.com/app/board/o9J_lK7APow=/),
+    [W](https://miro.com/app/board/o9J_lKc9WpE=/),
+    [Wb](https://miro.com/app/board/o9J_lKc9WqU=/)
 
 >>>>>>> 990a9a36b52d7a47b1d2f75a8549feb8523f77ad
 --- 
-)
+
 This syllabus was created, using wording from previous courses that I have
 taught, as well as David Millman's Spring 2018 Graphics course.  Thanks, Dr.
 Millman!
