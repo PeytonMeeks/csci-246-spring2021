@@ -14,7 +14,7 @@ Throughout this semester, you will have the opportunity to attend various semina
 
 ## Without Specific Dates
 
-Each of the following assingments is due one week after the event.  You can make
+Each of the following assignments is due one week after the event.  You can make
 one submission per category.  (Note that these assignments show a due date of
 Monday, 26 April 2021 since the actual event that you attend is not fixed).
 
@@ -50,7 +50,7 @@ Monday, 26 April 2021 since the actual event that you attend is not fixed).
    a one-page reflection on whatever it is you did. What
    impact that that have on your ability to focus?  Do you have any additional
    short-term goals that you can set for your future self?
-8. Visit the art exhit
+8. Visit the art exhibit
    [The Botany of Math](http://www.theemerson.org/events/exhibit-mathre/)
    at the Emerson.  Write a 1-2 page reflection on your experience.
 9. Find a reference (direct or indirect) of something relating to this class in
@@ -96,3 +96,6 @@ intersection.
 
 G. Anna's Practice Talk.  Attend the PhD proposal practice talk of Anna
 Schenfisch on Tuesday, 6 April 15:00-16:30 (see link in discord).
+
+H. Final Presentations. Attend at least two of the final presentations from the
+capstone course CSCI 483. Details: Sub Ballroom A from 11 am to 1:30 pm on April 22, and April 29. Reflection due: 30 April 2021. 
