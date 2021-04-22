@@ -4,7 +4,7 @@
 %% UPDATE these variables:
 \renewcommand{\hwnum}{7}
 \title{Discrete Structures, Homework \hwnum}
-\author{\todo{Your Name Here} (\todo{your discord handle here})}
+\author{Peyton Meeks}
 \collab{n/a}
 \date{due: 16 April 2021}
 
@@ -29,7 +29,7 @@ General homework expectations:
 
 % ============================================
 % ============================================
-\collab{\todo{}} \nextprob{Graphs}
+\collab{n/a} \nextprob{Graphs}
 % ============================================
 % ============================================
 
@@ -43,12 +43,12 @@ graphs represent different things.
 
 \paragraph{Answer}
 
-\todo{your answer here}
+The first graph could be a scatterpot with the x-axis representing each movie, and the y-axis representing the amount the movie was purchased for. Using a scatterplot allows each movie to have multiple nodes seperated by the selling point of each movie if there is a variance. The second graph would be another scatterplot relating each movie to the person who purchased it. This allows each node to be seperated by the person who purchaced the movie, and related by each movie title sold.
 
 
 % ============================================
 % ============================================
-\collab{\todo{}} \nextprob{Equivalence Class}
+\collab{n/a} \nextprob{Equivalence Class}
 % ============================================
 % ============================================
 
@@ -62,19 +62,18 @@ connected components.
 
         \paragraph{Answer}
 
-        \todo{your answer here}
+        Suppose not, that is suppose that there exits a relation $R$ on graphs $g$ and $h$ such that $g$ and $h$ do not have the same number of connected components. Then the graphs must be symetric, meaing for all components in $g$ and $h$, $g\leftarrow h$ if and only if $h \leftarrow g$ which is not true since $g$ and $h$ do not have the same number of connected components. Therefore by prove by contradiction, $gRh$ if and only if $g$ and $h$ have the same number of connected components. 
 
     \item Describe a scenario where you might use this equivalence relation.
 
         \paragraph{Answer}
 
-        \todo{your answer here}
+        One scenario would be if you were comparing the number of sales of a certain amount of products from year to year.
 
 \end{enumerate}
-
 % ============================================
 % ============================================
-\collab{\todo{}} \nextprob{Pseudocode}
+\collab{n/a} \nextprob{Pseudocode}
 % ============================================
 % ============================================
 
@@ -86,25 +85,57 @@ Recall the binary search algorithm.
 
         \paragraph{Answer} My algorithm for binary search using a for loop is given in \algref{forloop}.
 
-        \begin{algorithm}
+         \begin{algorithm}
             \caption{\textsc{BinarySearchFor}$(A)$}\label{alg:forloop}
             \begin{algorithmic}
-                \State \todo{pseudocode here}
-            \end{algorithmic}
+				\State \todo{Answer here}
+			 \end{algorithmic}
         \end{algorithm}
-
     \item Using the algorithm/algorithmic environment, give pseudocode using a while loop.
 
-        \paragraph{Answer}
+        \paragraph{Answer} My algorithm for binary search using a while loop is given in \algref{whileloop}.
 
-        \todo{your answer here}
+        \begin{algorithm}
+            \caption{\textsc{BinarySearchFor}$(A)$}\label{alg:whileloop}
+            \begin{algorithmic}
+                  \State int $start=0$,$end=array.length-1$
+				\While{$start <= end$}
+					\State int $middle = start + (end - start)/2$
+					\If {$array[middle] == A$}
+						\State \Return $true$
+					\ElsIf{$array[middle] > A$}
+						\State $end = middle -1$
+					\Else 
+						\State {$start = middle +1$}
+					\EndIf
+				\EndWhile \State
+				\Return $false$
+            \end{algorithmic}
+        \end{algorithm}
+		\footnote{“Binary Search Using a for Loop.” Binary Search Using a for Loop (Beginning Java Forum at Coderanch), \url{coderanch.com/t/608725/java/Binary-Search-loop}.}
 
     \item Using the algorithm/algorithmic environment, give pseudocode using
         recursionn.
 
-        \paragraph{Answer}
+		\paragraph{Answer} My algorithm for binary search using recursion is given in \algref{recursion}.
 
-        \todo{your answer here}
+        \begin{algorithm}
+            \caption{\textsc{BinarySearchFor}$(A)$}\label{alg:recursion}
+            \begin{algorithmic}
+				\Require $start = 0, end = array.length -1$  
+                  \State int RecursiveBinarySearch(int $array[]$, int $start$, int $end$, $A$) 
+					\State int $middle = start + (end - start)/2$
+					\If{$array[middle] == A$}
+						\State \Return $true$
+					\ElsIf{$A < array[middle]$}
+						\State \Return $RecursiveBinarySearch(array, start, middle - 1, A)$
+					\Else
+						\State \Return RecursiveBinarySearch(array, mid + 1, end, A)
+					\EndIf
+					\State \Return $false$
+            \end{algorithmic}
+        \end{algorithm}
+		\footnote{Arora, Nishtha. “Iterative and Recursive Binary Search Algorithm.” OpenGenus IQ: Learn Computer Science, OpenGenus IQ: Learn Computer Science, 26 Apr. 2020, \url{iq.opengenus.org/binary-search-iterative-recursive/}.} 
 
     \item What is the loop invariant of your second algorithm? (Proofs are not
         necessary, just stating the LI is required here.  As usual, for partial
@@ -112,12 +143,12 @@ Recall the binary search algorithm.
 
         \paragraph{Answer}
 
-        \todo{your answer here}
+        The loop invariant of the second algorithm is $start \leq end$. Resources used to construct the algorithms are in the footnote. 
 \end{enumerate}
 
 % ============================================
 % ============================================
-\collab{\todo{}} \nextprob{Four Colors Suffice}
+\collab{n/a} \nextprob{Four Colors Suffice}
 % ============================================
 % ============================================
 
@@ -129,7 +160,7 @@ Read Chapter $11$ of \emph{Four Colors Suffice}.
 
         \paragraph{Answer}
 
-        \todo{your answer here}
+        A proof is evidence or an argument of evidence trying to establish the truthfulness of a statement.
 
 
     \item Choose one concept that was described in both FCS and in Epp.
@@ -143,7 +174,7 @@ Read Chapter $11$ of \emph{Four Colors Suffice}.
 
 % ============================================
 % ============================================
-\collab{\todo{}}
+\collab{n/a}
 \nextprob{Thomas Bayes}
 % ============================================
 % ============================================
@@ -159,7 +190,7 @@ biography.
 
 \paragraph{Answer}
 
-\todo{your answer here}
+Thomas Bayes was a philosopher and statistician in the early 1700's. Born in Hertfordshire, England in 1701, Bayes would then enroll at the University of Edinburgh in 1719. While at the university, Bayes studied logic and theology until returning home to help his father who was a Presbyterian minister. In 1734 Bayes moved to Tunbrige Wells where he became a minister as well. Bayes took a great interest in mathematics, specifically probability. Many are unsure what led him to do so, however Bayes went on to publish \textsc{An Introduction to the Doctrine of Fluxions, and a Defence of the Mathematicians Against the Objections of the Author of The Analyst} which helped defend the foundation of Sir Issac Newton's calculus. His most famous findings, for which are named after him, were not published until after his death in 1761. Bayes' Therom is an extremly important tool to both mathematicians and computer scientists alike due to the fact that it can be used to find the probability of certain events or even relating an event back to the original problem. This allows us to have a uniform way of finding solutions to these problems and describing them justly. \footnote{“Thomas Bayes.” Wikipedia, Wikimedia Foundation, 29 Mar. 2021, \url{en.wikipedia.org/wiki/Thomas_Bayes}.}
 
 % %% ... the bibliography
 % \newpage
